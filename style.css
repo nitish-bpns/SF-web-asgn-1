@@ -23,8 +23,8 @@ overflow: hidden;
     float:left;
     font-family: 'Akaya Kanadaka';
     text-align: center;
-    font-size: 20px;
-    padding: 20px;
+    font-size: 25px;
+    padding: 15px;
 
 }
 
@@ -118,3 +118,4 @@ a {
     overflow: hidden;
     background: linear-gradient(to right, midnightblue,;
 }
+
